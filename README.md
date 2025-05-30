@@ -31,9 +31,11 @@ sudo ufw allow 22
 
  Delete the Telnet block rule
 sudo ufw delete deny 23
-[outputt](https://github.com/user-attachments/assets/9fe3cbf8-5139-47f6-bed2-3a1888ab8511)
-![out put](https://github.com/user-attachments/assets/8dadd369-383c-43e2-83d4-15fe0c44d97e)
-
 
 Final rules check
 sudo ufw status numbered
+
+
+![outputt](https://github.com/user-attachments/assets/9fe3cbf8-5139-47f6-bed2-3a1888ab8511)
+![out put](https://github.com/user-attachments/assets/8dadd369-383c-43e2-83d4-15fe0c44d97e)
+
